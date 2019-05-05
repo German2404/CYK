@@ -28,3 +28,5 @@ Next, enter the string you want to check for the grammar to be able to produce
 This string should be of length 0 to n, contain only lower case letters, and have no special characters.
 
 At last, hit the Run CYK button. A prompt will be shown indicating if the word can be producen by the grammar.
+
+GitHub link: https://github.com/German2404/CYK
